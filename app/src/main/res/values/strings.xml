@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MOMO</string>
+    <string name="email_and_password_authentication">Email and Password Authentication</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+</resources>
